@@ -1,0 +1,6 @@
+framework module Pods_5gMarktestTests {
+  umbrella header "Pods-5gMarktestTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
